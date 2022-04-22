@@ -1,0 +1,64 @@
+header{
+  padding:30px;
+  display:flex;
+  
+}
+
+.title{
+  color:#000088;
+  font-size:20px;
+  margin-left:30px;
+
+}
+
+.detail{
+  
+ margin:0 0 0 auto;
+ 
+  
+
+}
+.A{
+  font-size:12px;
+  display:inline-block;
+  padding:0px 10px;
+  color:#000088;
+  font-weight:bold;
+
+}
+
+main{
+ 
+  position:relative;
+}
+
+img{
+  size:cover;
+  width:50%;
+  position:absolute;
+  right:20px;
+  top:60px;
+  z-index:10;
+
+}
+
+.egao{
+  font-size:40px;
+  font-weight:lighter;
+  position:absolute;
+  top:360px;
+  left:50px;
+
+
+
+}
+
+.box{
+  background-color:#000088;
+  width:70%;
+  height:130px;
+  position:absolute;
+  top:400px;
+  left:50px;
+  z-index:0;
+}
